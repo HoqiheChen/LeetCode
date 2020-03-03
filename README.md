@@ -4,6 +4,7 @@
 
 | ID   | Title                                                        | Difficulty | Tag              |
 | ---- | ------------------------------------------------------------ | ---------- | ---------------- |
+| 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation |
 | 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation |
 | 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree             |
 
