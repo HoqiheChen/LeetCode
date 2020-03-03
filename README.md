@@ -4,6 +4,6 @@
 
 | ID   | Title                                                        | Difficulty | Tag              |
 | ---- | ------------------------------------------------------------ | ---------- | ---------------- |
-| 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/461.Hamming%20Distance.md) | easy       | Bit Manipulation |
-| 617  | Merge Two Binary Trees                                       | easy       | Tree             |
+| 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation |
+| 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree             |
 
