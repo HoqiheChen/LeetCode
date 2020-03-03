@@ -2,9 +2,10 @@
 
 ​		自己刷LeetCode整理的一些题解笔记，每道题使用Java实现。有什么错误及不足之处欢迎指出。
 
-| ID   | Title                                                        | Difficulty | Tag              |
-| ---- | ------------------------------------------------------------ | ---------- | ---------------- |
-| 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation |
-| 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation |
-| 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree             |
+| ID   | Title                                                        | Difficulty | Tag                 |
+| ---- | ------------------------------------------------------------ | ---------- | ------------------- |
+| 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | Medium     | Dynamic Programming |
+| 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation    |
+| 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation    |
+| 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree                |
 
