@@ -7,9 +7,12 @@
 | 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
+| 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
+| 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
+| 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
