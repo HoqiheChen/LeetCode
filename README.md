@@ -5,6 +5,7 @@
 | ID   | Title                                                        | Difficulty | Tag                 |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
 | 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
+| 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
@@ -24,9 +25,11 @@
 | 198  | [House Robber](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/198.House%20Robber.md) | easy       | Dynamic Programming |
 | 206  | [Reverse Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/206.Reverse%20Linked%20List.md) | easy       | Linked List         |
 | 226  | [Invert Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/226.Invert%20Binary%20Tree.md) | easy       | Tree                |
+| 238  | [Product of Array Except Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/238.Product%20of%20Array%20Except%20Self.md) | medium     |                     |
 | 234  | [Palindrome Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/234.Palindrome%20Linked%20List.md) | easy       | Linked List         |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
+| 406  | [Queue Reconstruction by Height](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/406.Queue%20Reconstruction%20by%20Height.md) | medium     |                     |
 | 437  | [Path Sum Ⅲ](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/437.Path%20Sum%20%E2%85%A2.md) | easy       | Tree                |
 | 448  | [Find All Numbers Disappeared in an Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | easy       | Array               |
 | 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation    |
@@ -35,6 +38,7 @@
 | 572  | [SubTree of Another Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/572.SubTree%20of%20Another%20Tree.md) | easy       | Tree                |
 | 581  | [Shortest Unsorted Continuous Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/581.Shortest%20Unsorted%20Continuous%20Subarray.md) | easy       |                     |
 | 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree                |
+| 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
 
 
 
