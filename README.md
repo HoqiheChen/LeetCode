@@ -29,12 +29,14 @@
 | 234  | [Palindrome Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/234.Palindrome%20Linked%20List.md) | easy       | Linked List         |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
+| 347  | [Top K Frequent Elements](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/347.Top%20K%20Frequent%20Elements.md) | medium     |                     |
 | 406  | [Queue Reconstruction by Height](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/406.Queue%20Reconstruction%20by%20Height.md) | medium     |                     |
 | 437  | [Path Sum Ⅲ](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/437.Path%20Sum%20%E2%85%A2.md) | easy       | Tree                |
 | 448  | [Find All Numbers Disappeared in an Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | easy       | Array               |
 | 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation    |
 | 538  | [Convert BST to Greater Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/538.Convert%20BST%20to%20Greater%20Tree.md) | easy       | Tree                |
 | 543  | [Diameter of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/543.Diameter%20of%20Binary%20Tree.md) | easy       | Tree                |
+| 547  | [Friend Circles](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/547.Friend%20Circles.md) | medium     |                     |
 | 572  | [SubTree of Another Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/572.SubTree%20of%20Another%20Tree.md) | easy       | Tree                |
 | 581  | [Shortest Unsorted Continuous Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/581.Shortest%20Unsorted%20Continuous%20Subarray.md) | easy       |                     |
 | 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree                |
