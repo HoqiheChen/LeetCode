@@ -8,6 +8,7 @@
 | 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
+| 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
@@ -28,6 +29,8 @@
 | 238  | [Product of Array Except Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/238.Product%20of%20Array%20Except%20Self.md) | medium     |                     |
 | 234  | [Palindrome Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/234.Palindrome%20Linked%20List.md) | easy       | Linked List         |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
+| 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
+| 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
 | 347  | [Top K Frequent Elements](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/347.Top%20K%20Frequent%20Elements.md) | medium     |                     |
 | 406  | [Queue Reconstruction by Height](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/406.Queue%20Reconstruction%20by%20Height.md) | medium     |                     |
