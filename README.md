@@ -13,6 +13,7 @@
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
+| 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/78.Subsets.md) | medium     |                     |
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
@@ -37,6 +38,7 @@
 | 437  | [Path Sum Ⅲ](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/437.Path%20Sum%20%E2%85%A2.md) | easy       | Tree                |
 | 448  | [Find All Numbers Disappeared in an Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | easy       | Array               |
 | 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation    |
+| 494  | [Target Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/494.Target%20Sum.md) | medium     |                     |
 | 538  | [Convert BST to Greater Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/538.Convert%20BST%20to%20Greater%20Tree.md) | easy       | Tree                |
 | 543  | [Diameter of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/543.Diameter%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 547  | [Friend Circles](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/547.Friend%20Circles.md) | medium     |                     |
