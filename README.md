@@ -34,6 +34,7 @@
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
 | 347  | [Top K Frequent Elements](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/347.Top%20K%20Frequent%20Elements.md) | medium     |                     |
+| 394  | [Decode String](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/394.Decode%20String.md) | medium     |                     |
 | 406  | [Queue Reconstruction by Height](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/406.Queue%20Reconstruction%20by%20Height.md) | medium     |                     |
 | 437  | [Path Sum Ⅲ](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/437.Path%20Sum%20%E2%85%A2.md) | easy       | Tree                |
 | 448  | [Find All Numbers Disappeared in an Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | easy       | Array               |
@@ -45,6 +46,7 @@
 | 572  | [SubTree of Another Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/572.SubTree%20of%20Another%20Tree.md) | easy       | Tree                |
 | 581  | [Shortest Unsorted Continuous Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/581.Shortest%20Unsorted%20Continuous%20Subarray.md) | easy       |                     |
 | 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree                |
+| 621  | [Task Scheduler](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/621.Task%20Scheduler.md) | medium     |                     |
 | 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
 
 
