@@ -19,6 +19,7 @@
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
+| 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
 | 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation    |
 | 141  | [Linked List Cycle](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/141.Linked%20List%20Cycle.md) | easy       | Linked List         |
 | 155  | [Min Stack](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/155.Min%20Stack.md) | easy       |                     |
@@ -48,6 +49,7 @@
 | 617  | [Merge Two Binary Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/617.Merge%20Two%20Binary%20Trees.md) | easy       | Tree                |
 | 621  | [Task Scheduler](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/621.Task%20Scheduler.md) | medium     |                     |
 | 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | medium     |                     |
 
 
 
