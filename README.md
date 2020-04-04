@@ -9,6 +9,7 @@
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
 | 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
+| 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/39.Combination%20Sum.md) | medium     |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
