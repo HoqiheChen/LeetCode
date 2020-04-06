@@ -6,6 +6,7 @@
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
 | 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
 | 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
+| 14   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/14.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
 | 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
@@ -16,6 +17,7 @@
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
 | 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/78.Subsets.md) | medium     |                     |
+| 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/79.Word%20Search.md) | medium     | Backtracking        |
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/96.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
