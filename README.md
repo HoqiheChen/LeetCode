@@ -10,6 +10,8 @@
 | 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
 | 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
 | 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
+| 26   | [Remove Duplicates from Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/26.Remove%20Duplicates%20from%20Sorted%20Array.md) | easy       |                     |
+| 27   | [Remove Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/27.Remove%20Element.md) | easy       |                     |
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/39.Combination%20Sum.md) | medium     |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
@@ -18,6 +20,7 @@
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
 | 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/78.Subsets.md) | medium     |                     |
 | 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/79.Word%20Search.md) | medium     | Backtracking        |
+| 80   | [Remove Duplicates from Sorted Array II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/80.Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | medium     |                     |
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/96.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
