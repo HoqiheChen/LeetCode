@@ -18,6 +18,7 @@
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
+| 75   | [Sort Colors](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/75.Sort%20Colors.md) | medium     |                     |
 | 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/78.Subsets.md) | medium     |                     |
 | 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/79.Word%20Search.md) | medium     | Backtracking        |
 | 80   | [Remove Duplicates from Sorted Array II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/80.Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | medium     |                     |
