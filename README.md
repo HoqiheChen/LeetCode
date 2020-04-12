@@ -30,6 +30,7 @@
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
+| 125  | [Valid Palindrome](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/125.Valid%20Palindrome.md) | easy       |                     |
 | 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation    |
 | 141  | [Linked List Cycle](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/141.Linked%20List%20Cycle.md) | easy       | Linked List         |
 | 155  | [Min Stack](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/155.Min%20Stack.md) | easy       |                     |
@@ -45,6 +46,7 @@
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | medium     |                     |
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
+| 344  | [Reverse String](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/344.Reverse%20String.md) | easy       |                     |
 | 347  | [Top K Frequent Elements](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/347.Top%20K%20Frequent%20Elements.md) | medium     |                     |
 | 394  | [Decode String](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/394.Decode%20String.md) | medium     |                     |
 | 406  | [Queue Reconstruction by Height](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/406.Queue%20Reconstruction%20by%20Height.md) | medium     |                     |
