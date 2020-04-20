@@ -45,6 +45,7 @@
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | medium     |                     |
+| 315  | [Count of Smaller Numbers After Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/315.Count%20of%20Smaller%20Numbers%20After%20Self.md) | hard       |                     |
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
 | 344  | [Reverse String](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/344.Reverse%20String.md) | easy       |                     |
