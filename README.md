@@ -2,6 +2,8 @@
 
 ​		自己刷LeetCode整理的一些题解笔记，每道题使用Java实现。有什么错误及不足之处欢迎指出。
 
+​		------------------- 开始备战秋招，每日必刷2题。 ------------------
+
 | ID   | Title                                                        | Difficulty | Tag                 |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
 | 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
@@ -43,8 +45,10 @@
 | 238  | [Product of Array Except Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/238.Product%20of%20Array%20Except%20Self.md) | medium     |                     |
 | 240  | [Search a 2D Matrix II](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/240.Search%20a%202D%20Matrix%20II.md) | medium     |                     |
 | 234  | [Palindrome Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/234.Palindrome%20Linked%20List.md) | easy       | Linked List         |
+| 279  | [Perfect Squares](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/279.Perfect%20Squares.md) | medium     |                     |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
+| 300  | [Longest Increasing Subsequence](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/300.Longest%20Increasing%20Subsequence.md) | medium     |                     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | medium     |                     |
 | 315  | [Count of Smaller Numbers After Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/315.Count%20of%20Smaller%20Numbers%20After%20Self.md) | hard       |                     |
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
