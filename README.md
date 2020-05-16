@@ -16,6 +16,7 @@
 | 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
 | 26   | [Remove Duplicates from Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/26.Remove%20Duplicates%20from%20Sorted%20Array.md) | easy       |                     |
 | 27   | [Remove Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/27.Remove%20Element.md) | easy       |                     |
+| 33   | [Search in Rotated Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/33.Search%20in%20Rotated%20Sorted%20Array.md) | medium     |                     |
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/39.Combination%20Sum.md) | medium     |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
@@ -45,6 +46,7 @@
 | 198  | [House Robber](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/198.House%20Robber.md) | easy       | Dynamic Programming |
 | 200  | [Number of Islands](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/200.Number%20of%20Islands.md) | medium     |                     |
 | 206  | [Reverse Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/206.Reverse%20Linked%20List.md) | easy       | Linked List         |
+| 207  | [Course Schedule](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/207.Course%20Schedule.md) | medium     |                     |
 | 226  | [Invert Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/226.Invert%20Binary%20Tree.md) | easy       | Tree                |
 | 238  | [Product of Array Except Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/238.Product%20of%20Array%20Except%20Self.md) | medium     |                     |
 | 240  | [Search a 2D Matrix II](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/240.Search%20a%202D%20Matrix%20II.md) | medium     |                     |
