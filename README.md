@@ -22,6 +22,7 @@
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
 | 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/49.Group%20Anagrams.md) | medium     |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
+| 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/56.Merge%20Intervals.md) | medium     |                     |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
 | 75   | [Sort Colors](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/75.Sort%20Colors.md) | medium     |                     |
@@ -59,6 +60,7 @@
 | 300  | [Longest Increasing Subsequence](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/300.Longest%20Increasing%20Subsequence.md) | medium     |                     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | medium     |                     |
 | 315  | [Count of Smaller Numbers After Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/315.Count%20of%20Smaller%20Numbers%20After%20Self.md) | hard       |                     |
+| 322  | [Coin Change](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/322.Coin%20Change.md) | medium     |                     |
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
 | 338  | [Counting Bits](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/338.Counting%20Bits.md) | medium     |                     |
 | 344  | [Reverse String](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/344.Reverse%20String.md) | easy       |                     |
