@@ -42,7 +42,9 @@
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
 | 125  | [Valid Palindrome](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/125.Valid%20Palindrome.md) | easy       |                     |
 | 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation    |
+| 139  | [Word Break](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/139.Word%20Break.md) | medium     |                     |
 | 141  | [Linked List Cycle](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/141.Linked%20List%20Cycle.md) | easy       | Linked List         |
+| 142  | [Linked List Cycle II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/142.Linked%20List%20Cycle%20II.md) | medium     |                     |
 | 155  | [Min Stack](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/155.Min%20Stack.md) | easy       |                     |
 | 160  | [Intersection of Two Linked Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/160.Intersection%20of%20Two%20Linked%20Lists.md) | east       | Linked List         |
 | 169  | [Majority Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/169.Majority%20Element.md) | easy       | Array               |
