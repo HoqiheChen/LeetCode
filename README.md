@@ -6,8 +6,9 @@
 
 | ID   | Title                                                        | Difficulty | Tag                 |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
-| 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
-| 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
+| 01   | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
+| 05   | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
+| 07   | [Reverse Integer](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/07.Reverse%20Integer.md) | easy       |                     |
 | 11   | [Container With Most Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/11.Container%20With%20Most%20Water.md) | medium     |                     |
 | 14   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/14.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
 | 19   | [Remove Nth Node From End of List](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/19.Remove%20Nth%20Node%20From%20End%20of%20List.md) | medium     | Linked List         |
@@ -22,6 +23,7 @@
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
 | 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/49.Group%20Anagrams.md) | medium     |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
+| 55   | [Jump Game](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/55.Jump%20Game.md) | medium     |                     |
 | 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/56.Merge%20Intervals.md) | medium     |                     |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
