@@ -39,6 +39,8 @@
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) | medium     | Tree                |
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/106.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | medium     | Tree                |
+| 107  | [Binary Tree Level Order Traversal II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/107.Binary%20Tree%20Level%20Order%20Traversal%20II.md) | easy       |                     |
+| 111  | [Minimum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/111.Minimum%20Depth%20of%20Binary%20Tree.md) | medium     |                     |
 | 114  | [Flatten Binary Tree to Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/114.Flatten%20Binary%20Tree%20to%20Linked%20List.md) | medium     |                     |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
