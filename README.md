@@ -94,6 +94,7 @@
 | 621  | [Task Scheduler](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/621.Task%20Scheduler.md) | medium     |                     |
 | 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | medium     |                     |
+| 752  | [Open the Lock](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/752.Open%20the%20Lock.md) | medium     |                     |
 
 
 
