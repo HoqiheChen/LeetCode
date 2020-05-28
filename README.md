@@ -35,6 +35,7 @@
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/96.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
+| 100  | [Same Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/100.Same%20Tree.md) | easy       |                     |
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
 | 102  | [Binary Tree Level Order Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/102.Binary%20Tree%20Level%20Order%20Traversal.md) | medium     | Tree                |
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
@@ -42,6 +43,7 @@
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/106.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | medium     | Tree                |
 | 107  | [Binary Tree Level Order Traversal II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/107.Binary%20Tree%20Level%20Order%20Traversal%20II.md) | easy       |                     |
 | 111  | [Minimum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/111.Minimum%20Depth%20of%20Binary%20Tree.md) | medium     |                     |
+| 112  | [Path Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/112.Path%20Sum.md) | easy       |                     |
 | 114  | [Flatten Binary Tree to Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/114.Flatten%20Binary%20Tree%20to%20Linked%20List.md) | medium     |                     |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
@@ -96,6 +98,7 @@
 | 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | medium     |                     |
 | 752  | [Open the Lock](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/752.Open%20the%20Lock.md) | medium     |                     |
+| 773  | [Sliding Puzzle](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/773.Sliding%20Puzzle.md) | hard       |                     |
 | 994  | [Rotting Oranges](https://github.com/HoqiheChen/LeetCode/blob/master/code/901-1000/994.Rotting%20Oranges.md) | medium     | BFS                 |
 
 
