@@ -8,7 +8,7 @@
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
 | 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/001.Two%20Sum.md) | easy       |                     |
 | 2    | [Add Two Numbers](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/002.Add%20Two%20Numbers.md) | medium     |                     |
-| 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/002.Add%20Two%20Numbers.md) | medium     |                     |
+| 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/005.Longest%20Palindromic%20Substring.md) | medium     |                     |
 | 7    | [Reverse Integer](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/007.Reverse%20Integer.md) | easy       |                     |
 | 11   | [Container With Most Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/11.Container%20With%20Most%20Water.md) | medium     |                     |
 | 17   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
