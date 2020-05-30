@@ -6,35 +6,36 @@
 
 | ID   | Title                                                        | Difficulty | Tag                 |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
-| 01   | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
-| 05   | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/05.Longest%20Palindromic%20Substring.md) | medium     |                     |
-| 07   | [Reverse Integer](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/07.Reverse%20Integer.md) | easy       |                     |
+| 1    | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/001.Two%20Sum.md) | easy       |                     |
+| 2    | [Add Two Numbers](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/002.Add%20Two%20Numbers.md) | medium     |                     |
+| 5    | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/002.Add%20Two%20Numbers.md) | medium     |                     |
+| 7    | [Reverse Integer](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/007.Reverse%20Integer.md) | easy       |                     |
 | 11   | [Container With Most Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/11.Container%20With%20Most%20Water.md) | medium     |                     |
-| 17   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/14.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
-| 19   | [Remove Nth Node From End of List](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/19.Remove%20Nth%20Node%20From%20End%20of%20List.md) | medium     | Linked List         |
-| 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/20.Valid%20Parentheses.md) | easy       |                     |
-| 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/21.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
-| 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/22.Generate%20Parentheses.md) | medium     |                     |
-| 26   | [Remove Duplicates from Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/26.Remove%20Duplicates%20from%20Sorted%20Array.md) | easy       |                     |
-| 27   | [Remove Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/27.Remove%20Element.md) | easy       |                     |
-| 33   | [Search in Rotated Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/33.Search%20in%20Rotated%20Sorted%20Array.md) | medium     |                     |
-| 34   | [Find First and Last Position of Element in Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | medium     |                     |
-| 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/39.Combination%20Sum.md) | medium     |                     |
-| 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/46.Permutations.md) | medium     |                     |
-| 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/48.Rotate%20Image.md) | medium     |                     |
-| 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/49.Group%20Anagrams.md) | medium     |                     |
-| 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/53.Maximum%20Subarray.md) | easy       | Dynamic Programming |
-| 55   | [Jump Game](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/55.Jump%20Game.md) | medium     |                     |
-| 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/56.Merge%20Intervals.md) | medium     |                     |
-| 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/62.Unique%20Paths.md) | medium     | Dynamic Programming |
-| 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/70.Climbing%20Stairs.md) | easy       |                     |
-| 75   | [Sort Colors](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/75.Sort%20Colors.md) | medium     |                     |
-| 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/78.Subsets.md) | medium     |                     |
-| 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/79.Word%20Search.md) | medium     | Backtracking        |
-| 80   | [Remove Duplicates from Sorted Array II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/80.Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | medium     |                     |
-| 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/94.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
-| 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/96.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
-| 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/98.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
+| 17   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
+| 19   | [Remove Nth Node From End of List](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/019.Remove%20Nth%20Node%20From%20End%20of%20List.md) | medium     | Linked List         |
+| 20   | [Valid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/020.Valid%20Parentheses.md) | easy       |                     |
+| 21   | [Merge Two Sorted Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/021.Merge%20Two%20Sorted%20Lists.md) | easy       | Linked List         |
+| 22   | [Generate Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/022.Generate%20Parentheses.md) | medium     |                     |
+| 26   | [Remove Duplicates from Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/026.Remove%20Duplicates%20from%20Sorted%20Array.md) | easy       |                     |
+| 27   | [Remove Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/027.Remove%20Element.md) | easy       |                     |
+| 33   | [Search in Rotated Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/033.Search%20in%20Rotated%20Sorted%20Array.md) | medium     |                     |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | medium     |                     |
+| 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/039.Combination%20Sum.md) | medium     |                     |
+| 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/046.Permutations.md) | medium     |                     |
+| 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/048.Rotate%20Image.md) | medium     |                     |
+| 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/049.Group%20Anagrams.md) | medium     |                     |
+| 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/053.Maximum%20Subarray.md) | easy       | Dynamic Programming |
+| 55   | [Jump Game](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/055.Jump%20Game.md) | medium     |                     |
+| 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/056.Merge%20Intervals.md) | medium     |                     |
+| 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/062.Unique%20Paths.md) | medium     | Dynamic Programming |
+| 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/070.Climbing%20Stairs.md) | easy       |                     |
+| 75   | [Sort Colors](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/075.Sort%20Colors.md) | medium     |                     |
+| 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/078.Subsets.md) | medium     |                     |
+| 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/079.Word%20Search.md) | medium     | Backtracking        |
+| 80   | [Remove Duplicates from Sorted Array II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/080.Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | medium     |                     |
+| 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/094.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
+| 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/096.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
+| 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/098.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
 | 100  | [Same Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/100.Same%20Tree.md) | easy       |                     |
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
 | 102  | [Binary Tree Level Order Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/102.Binary%20Tree%20Level%20Order%20Traversal.md) | medium     | Tree                |
@@ -67,6 +68,7 @@
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | medium     |                     |
 | 238  | [Product of Array Except Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/238.Product%20of%20Array%20Except%20Self.md) | medium     |                     |
 | 240  | [Search a 2D Matrix II](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/240.Search%20a%202D%20Matrix%20II.md) | medium     |                     |
+| 257  | [Binary Tree Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/257.Binary%20Tree%20Paths.md) | easy       |                     |
 | 279  | [Perfect Squares](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/279.Perfect%20Squares.md) | medium     |                     |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
