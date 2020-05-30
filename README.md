@@ -7,7 +7,7 @@
 | ID   | Title                                                        | Difficulty | Tag                 |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------- |
 | 01   | [Two Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/1.Two%20Sum.md) | easy       |                     |
-| 05   | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/5.Longest%20Palindromic%20Substring.md) | medium     |                     |
+| 05   | [Longest Palindromic Substring](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/05.Longest%20Palindromic%20Substring.md) | medium     |                     |
 | 07   | [Reverse Integer](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/07.Reverse%20Integer.md) | easy       |                     |
 | 11   | [Container With Most Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/11.Container%20With%20Most%20Water.md) | medium     |                     |
 | 17   | [Letter Combinations of a Phone Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/14.Letter%20Combinations%20of%20a%20Phone%20Number.md) | medium     | Backtracking        |
