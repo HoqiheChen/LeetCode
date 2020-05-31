@@ -36,15 +36,16 @@
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/094.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/096.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/098.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
-| 100  | [Same Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/100.Same%20Tree.md) | easy       |                     |
+| 100  | [Same Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/100.Same%20Tree.md) | easy       | Tree                |
 | 101  | [Symmetric Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/101.Symmetric%20Tree.md) | easy       | Tree                |
 | 102  | [Binary Tree Level Order Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/102.Binary%20Tree%20Level%20Order%20Traversal.md) | medium     | Tree                |
 | 104  | [Maximum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/104.Maximum%20Depth%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) | medium     | Tree                |
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/106.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | medium     | Tree                |
-| 107  | [Binary Tree Level Order Traversal II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/107.Binary%20Tree%20Level%20Order%20Traversal%20II.md) | easy       |                     |
-| 111  | [Minimum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/111.Minimum%20Depth%20of%20Binary%20Tree.md) | medium     |                     |
-| 112  | [Path Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/112.Path%20Sum.md) | easy       |                     |
+| 107  | [Binary Tree Level Order Traversal II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/107.Binary%20Tree%20Level%20Order%20Traversal%20II.md) | easy       | Tree                |
+| 110  | [Balanced Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/110.Balanced%20Binary%20Tree.md) | easy       | Tree                |
+| 111  | [Minimum Depth of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/111.Minimum%20Depth%20of%20Binary%20Tree.md) | medium     | Tree                |
+| 112  | [Path Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/112.Path%20Sum.md) | easy       | Tree                |
 | 114  | [Flatten Binary Tree to Linked List](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/114.Flatten%20Binary%20Tree%20to%20Linked%20List.md) | medium     |                     |
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
@@ -88,11 +89,12 @@
 | 448  | [Find All Numbers Disappeared in an Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | easy       | Array               |
 | 461  | [Hamming Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/461.Hamming%20Distance.md) | easy       | Bit Manipulation    |
 | 494  | [Target Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/401-500/494.Target%20Sum.md) | medium     |                     |
-| 513  | [Find Bottom Left Tree Value](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/513.Find%20Bottom%20Left%20Tree%20Value.md) | medium     |                     |
-| 515  | [Find Largest Value in Each Tree Row](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) | medium     |                     |
+| 513  | [Find Bottom Left Tree Value](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/513.Find%20Bottom%20Left%20Tree%20Value.md) | medium     | Tree                |
+| 515  | [Find Largest Value in Each Tree Row](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/515.Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) | medium     | Tree                |
 | 538  | [Convert BST to Greater Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/538.Convert%20BST%20to%20Greater%20Tree.md) | easy       | Tree                |
 | 543  | [Diameter of Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/543.Diameter%20of%20Binary%20Tree.md) | easy       | Tree                |
 | 547  | [Friend Circles](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/547.Friend%20Circles.md) | medium     |                     |
+| 559  | [Maximum Depth of N-ary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/559.Maximum%20Depth%20of%20N-ary%20Tree.md) | easy       | Tree                |
 | 560  | [Subarray Sum Equals K](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/560.Subarray%20Sum%20Equals%20K.md) | medium     |                     |
 | 572  | [SubTree of Another Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/572.SubTree%20of%20Another%20Tree.md) | easy       | Tree                |
 | 581  | [Shortest Unsorted Continuous Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/501-600/581.Shortest%20Unsorted%20Continuous%20Subarray.md) | easy       |                     |
