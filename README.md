@@ -20,10 +20,12 @@
 | 27   | [Remove Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/027.Remove%20Element.md) | easy       |                     |
 | 33   | [Search in Rotated Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/033.Search%20in%20Rotated%20Sorted%20Array.md) | medium     |                     |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | medium     |                     |
+| 37   | [Sudoku Solver](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/037.Sudoku%20Solver.md) | hard       |                     |
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/039.Combination%20Sum.md) | medium     |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/046.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/048.Rotate%20Image.md) | medium     |                     |
 | 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/049.Group%20Anagrams.md) | medium     |                     |
+| 51   | [N-Queens](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/051.N-Queens.md) | hard       |                     |
 | 53   | [Maximum Subarray](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/053.Maximum%20Subarray.md) | easy       | Dynamic Programming |
 | 55   | [Jump Game](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/055.Jump%20Game.md) | medium     |                     |
 | 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/056.Merge%20Intervals.md) | medium     |                     |
