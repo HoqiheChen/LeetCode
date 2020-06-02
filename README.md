@@ -77,6 +77,7 @@
 | 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
 | 300  | [Longest Increasing Subsequence](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/300.Longest%20Increasing%20Subsequence.md) | medium     |                     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | medium     |                     |
+| 312  | [Burst Balloons](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/312.Burst%20Balloons.md) | hard       |                     |
 | 315  | [Count of Smaller Numbers After Self](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/315.Count%20of%20Smaller%20Numbers%20After%20Self.md) | hard       |                     |
 | 322  | [Coin Change](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/322.Coin%20Change.md) | medium     |                     |
 | 337  | [House Robber III](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/337.House%20Robber%20III.md) | medium     |                     |
