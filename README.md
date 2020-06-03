@@ -22,6 +22,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | medium     |                     |
 | 37   | [Sudoku Solver](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/037.Sudoku%20Solver.md) | hard       |                     |
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/039.Combination%20Sum.md) | medium     |                     |
+| 42   | [Trapping Rain Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/042.Trapping%20Rain%20Water.md) | hard       |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/046.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/048.Rotate%20Image.md) | medium     |                     |
 | 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/049.Group%20Anagrams.md) | medium     |                     |
@@ -52,6 +53,7 @@
 | 121  | [Best Time to Buy and Sell Stock](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | easy       |                     |
 | 122  | [Best Time to Buy and Sell Stock II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | medium     |                     |
 | 125  | [Valid Palindrome](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/125.Valid%20Palindrome.md) | easy       |                     |
+| 128  | [Longest Consecutive Sequence](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/128.Longest%20Consecutive%20Sequence.md) | hard       |                     |
 | 136  | [Single Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/136.Single%20Number.md) | easy       | Bit Manipulation    |
 | 139  | [Word Break](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/139.Word%20Break.md) | medium     |                     |
 | 141  | [Linked List Cycle](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/141.Linked%20List%20Cycle.md) | easy       | Linked List         |
