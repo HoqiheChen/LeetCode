@@ -32,10 +32,12 @@
 | 56   | [Merge Intervals](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/056.Merge%20Intervals.md) | medium     |                     |
 | 62   | [Unique Paths](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/062.Unique%20Paths.md) | medium     | Dynamic Programming |
 | 70   | [Climbing Stairs](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/070.Climbing%20Stairs.md) | easy       |                     |
+| 72   | [Edit Distance](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/072.Edit%20Distance.md) | hard       | Dynamic Programming |
 | 75   | [Sort Colors](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/075.Sort%20Colors.md) | medium     |                     |
 | 78   | [Subsets](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/078.Subsets.md) | medium     |                     |
 | 79   | [Word Search](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/079.Word%20Search.md) | medium     | Backtracking        |
 | 80   | [Remove Duplicates from Sorted Array II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/080.Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | medium     |                     |
+| 84   | [Largest Rectangle in Histogram](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/084.Largest%20Rectangle%20in%20Histogram.md) | hard       |                     |
 | 94   | [Binary Tree Inorder Traversal](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/094.Binary%20Tree%20Inorder%20Traversal.md) | medium     | Tree                |
 | 96   | [Unique Binary Search Trees](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/096.Unique%20Binary%20Search%20Trees.md) | medium     | Tree                |
 | 98   | [Validate Binary Search Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/098.Validate%20Binary%20Search%20Tree.md) | medium     | Tree                |
