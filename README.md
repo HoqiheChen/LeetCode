@@ -60,6 +60,7 @@
 | 139  | [Word Break](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/139.Word%20Break.md) | medium     |                     |
 | 141  | [Linked List Cycle](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/141.Linked%20List%20Cycle.md) | easy       | Linked List         |
 | 142  | [Linked List Cycle II](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/142.Linked%20List%20Cycle%20II.md) | medium     |                     |
+| 146  | [LRU Cache](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/146.LRU%20Cache.md) | medium     |                     |
 | 155  | [Min Stack](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/155.Min%20Stack.md) | easy       |                     |
 | 160  | [Intersection of Two Linked Lists](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/160.Intersection%20of%20Two%20Linked%20Lists.md) | east       | Linked List         |
 | 169  | [Majority Element](https://github.com/HoqiheChen/LeetCode/blob/master/code/101-200/169.Majority%20Element.md) | easy       | Array               |
@@ -111,6 +112,7 @@
 | 621  | [Task Scheduler](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/621.Task%20Scheduler.md) | medium     |                     |
 | 647  | [Palindromic Substrings](https://github.com/HoqiheChen/LeetCode/blob/master/code/601-700/647.Palindromic%20Substrings.md) | medium     |                     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | medium     |                     |
+| 739  | [Daily Temperatures](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/739.Daily%20Temperatures.md) | medium     |                     |
 | 752  | [Open the Lock](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/752.Open%20the%20Lock.md) | medium     |                     |
 | 773  | [Sliding Puzzle](https://github.com/HoqiheChen/LeetCode/blob/master/code/701-800/773.Sliding%20Puzzle.md) | hard       |                     |
 | 994  | [Rotting Oranges](https://github.com/HoqiheChen/LeetCode/blob/master/code/901-1000/994.Rotting%20Oranges.md) | medium     | BFS                 |
