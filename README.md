@@ -81,6 +81,7 @@
 | 279  | [Perfect Squares](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/279.Perfect%20Squares.md) | medium     |                     |
 | 283  | [Move Zeroes](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/283.Move%20Zeroes.md) | easy       | Array               |
 | 287  | [Find the Duplicate Number](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/287.Find%20the%20Duplicate%20Number.md) | medium     |                     |
+| 295  | [Find Median from Data Stream](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/295.Find%20Median%20from%20Data%20Stream.md) | hard       |                     |
 | 297  | [Serialize and Deserialize Binary Tree](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/297.Serialize%20and%20Deserialize%20Binary%20Tree.md) | hard       |                     |
 | 300  | [Longest Increasing Subsequence](https://github.com/HoqiheChen/LeetCode/blob/master/code/201-300/300.Longest%20Increasing%20Subsequence.md) | medium     |                     |
 | 301  | [Remove Invalid Parentheses](https://github.com/HoqiheChen/LeetCode/blob/master/code/301-400/301.Remove%20Invalid%20Parentheses.md) | hard       |                     |
