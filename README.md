@@ -22,6 +22,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | medium     |                     |
 | 37   | [Sudoku Solver](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/037.Sudoku%20Solver.md) | hard       |                     |
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/039.Combination%20Sum.md) | medium     |                     |
+| 41   | [First Missing Positive](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/041.First%20Missing%20Positive.md) | hard       |                     |
 | 42   | [Trapping Rain Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/042.Trapping%20Rain%20Water.md) | hard       |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/046.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/048.Rotate%20Image.md) | medium     |                     |
