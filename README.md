@@ -28,6 +28,7 @@
 | 39   | [Combination Sum](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/039.Combination%20Sum.md) | medium     |                     |
 | 41   | [First Missing Positive](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/041.First%20Missing%20Positive.md) | hard       |                     |
 | 42   | [Trapping Rain Water](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/042.Trapping%20Rain%20Water.md) | hard       |                     |
+| 45   | [Jump Game II](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/045.Jump%20Game%20II.md) | hard       |                     |
 | 46   | [Permutations](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/046.Permutations.md) | medium     |                     |
 | 48   | [Rotate Image](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/048.Rotate%20Image.md) | medium     |                     |
 | 49   | [Group Anagrams](https://github.com/HoqiheChen/LeetCode/blob/master/code/1-100/049.Group%20Anagrams.md) | medium     |                     |
